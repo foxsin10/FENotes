@@ -19,4 +19,8 @@
 ### inline-block
 类似 `inline` ，但是在所在行显示不下会自动换行
 
+### flex
+
+标注为 `flex` 之后，同时指定 `flex-flow` 或者 `flex-drection`  视图内部的子视图最好是确定
+
 
