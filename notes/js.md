@@ -1,8 +1,9 @@
 # JavaScript
+
 ## 面向对象
 
+```JavaScript
 
-```
 let pageRecorder = {
   index: 1,
   name: '随意',
@@ -20,4 +21,3 @@ let pageRecorder = {
 ```
 
 如上述代码，创建了一个名为 `pageRecorder`  的对象
-
